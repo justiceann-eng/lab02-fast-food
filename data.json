@@ -1,0 +1,6 @@
+{
+    "names": ["Chick-fil-A", "McDonalds", "Wendys", "Taco Bell", "Chipotle", "Subway", "Burger King", "Popeyes"],
+    "avg_meal_cost": [10.5, 9.0, 9.5, 8.5, 17.5, 13.0, 9.5, 10.5],
+    "calories": [950, 1150, 1000, 950, 1070, 800, 1100, 1200],
+    "rating":[4.5, 3.6, 3.9, 4.1, 2.9, 3.5, 2.2, 4.2]
+}
